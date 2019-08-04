@@ -1,4 +1,4 @@
-# ensemble_methods_workshop
+# ensemble_methods_preworkshop
 This repo contains material meant for the challenge in the workshop on ensemble methods using caret in R. Further documentation can be found inside the folders in the readme.txt files
 
 
