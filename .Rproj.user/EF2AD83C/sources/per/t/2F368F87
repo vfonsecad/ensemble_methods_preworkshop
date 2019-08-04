@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564937701128.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "367849021",
+    "id" : "2F368F87",
+    "lastKnownWriteTime" : 1564937747,
+    "last_content_update" : 1564937747776,
+    "path" : "~/vfonsecad/independent-work/rladies-amsterdam/ensemble-methods-preworkshop/workshop_challenge_template/model/model-build_template.R",
+    "project_path" : "workshop_challenge_template/model/model-build_template.R",
+    "properties" : {
+        "cursorPosition" : "13,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
